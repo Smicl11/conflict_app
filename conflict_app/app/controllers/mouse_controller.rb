@@ -1,10 +1,10 @@
 class MouseController < ApplicationController
   def i_am_the_best_controller_ever
-    puts "I'm awesome! No your not"
+    puts " No no no no not"
   end
 
   def i_am_the_best_controller_ever
-    puts "okay"
+    puts "ok"
   end
 
 end
